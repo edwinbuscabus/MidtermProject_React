@@ -1,0 +1,38 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  margin: 2em;
+  background-color: grey;
+}
+.navbar{
+  color: black;
+  padding: 10px;
+  display: flex;
+}
+.container{
+  width: max-content;
+  height: 600px;
+}
+
+.links a{
+  color: black;
+  font-size: 30px;
+  margin-left: auto;
+}
+.navbar a{
+  margin-left: 16px;
+  text-decoration: none;
+}
+
+.footer{
+  padding: 10px;
+  text-align: center;
+}
+
+
+ 
+
